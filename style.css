@@ -16,12 +16,6 @@
     --font-family: "Lato", sans-serif;
   }
   
-  *,
-  *::after,
-  *::before {
-    box-sizing: border-box;
-  }
-  
   body {
     background-color: var(--app-background-color);
     color: var(--primary-color);
