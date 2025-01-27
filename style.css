@@ -216,6 +216,7 @@
   #player-song-title,
   #player-song-artist {
     margin: 0;
+    color: white;
   }
   
   #player-song-artist {
